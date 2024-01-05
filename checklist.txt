@@ -1,0 +1,7 @@
+1. Wake up
+2. Exercise
+3. Read
+4. Go to office
+5. Work
+6. Eat
+7. Sleep
